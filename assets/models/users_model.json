@@ -1,0 +1,26 @@
+
+{
+    "uid": "T1XDTumZ6RdswYOUJAQka6Fp9jK2",
+    "name": "Ifan Sulistio",
+    "email": "faizhaq467@gmail.com",
+    "keyName": "I",
+    "creationTime": "2022-01-05T01:15:49.628",
+    "lastSignInTime": "2022-01-05T22:18:43.428",
+    "photoUrl": "https://lh3.googleusercontent.com/a/AATXAJyQy_vGsZRx_miwOzV2XMde1-4Qg2yErYykZb3l=s96-c",
+    "status": "hallo gays",
+    "updatedTime": "2022-01-05T18:06:56.852603",
+    "chats": [
+    {
+    "connection": "fitriani@gmail.com",
+    "chat_id": "RO337DaJnITOcfDgo2ENh8IPanVs",
+    "lastTime": "2021-08-25T13:29:02.748721",
+    "total_unread" : 0
+    },
+    {
+    "connection": "daniel@gmail.com",
+    "chat_id": "JnITOcfDgo2ENh8IPanVsRO337Da",
+    "lastTime": "2021-09-25T13:28:59.748721",
+    "total_unread" : 0
+    }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178168924489",
+    "project_id": "rupuchat-a4851",
+    "storage_bucket": "rupuchat-a4851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178168924489:android:d196b6e65cfeab2234f298",
+        "android_client_info": {
+          "package_name": "com.rupuchat.rupuchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178168924489-bcomifqi5vt7ohmftvhd2h507lasum7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupuchat.rupuchat",
+            "certificate_hash": "341f48b0139ade1d52535907d9c6ee0a7d9a4698"
+          }
+        },
+        {
+          "client_id": "178168924489-buhg5r5kq82g7th3lphv1hkrtge15d6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3w2HIg5mXw8DKPqns5hxLukEykj8qbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178168924489-buhg5r5kq82g7th3lphv1hkrtge15d6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

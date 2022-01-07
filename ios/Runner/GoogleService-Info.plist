@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>178168924489-el5u03r87gb1rtfn58q02mvk3475e6lv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.178168924489-el5u03r87gb1rtfn58q02mvk3475e6lv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>178168924489-bcomifqi5vt7ohmftvhd2h507lasum7c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQPmQZNt_ouO_QXFejuagEUBgOxT8fiY4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>178168924489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rupuchat.rupuchat</string>
+	<key>PROJECT_ID</key>
+	<string>rupuchat-a4851</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rupuchat-a4851.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:178168924489:ios:5c8035aea2be30dd34f298</string>
+	<!-- Put me in the [my_project]/ios/Runner/Info.plist file -->
+	<!-- Google Sign-in Section -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<!-- TODO Replace this value: -->
+				<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
+				<string>com.googleusercontent.apps.178168924489-el5u03r87gb1rtfn58q02mvk3475e6lv</string>
+			</array>
+		</dict>
+	</array>
+	<!-- End of the Google Sign-in Section -->
+</dict>
+</plist>

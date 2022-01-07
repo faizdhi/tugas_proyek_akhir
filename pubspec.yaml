@@ -1,0 +1,34 @@
+name: rupuchat
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.15.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  firebase_core: 1.10.6
+  google_sign_in: 5.2.1
+  firebase_auth: 3.3.4
+  lottie: 1.2.1
+  introduction_screen: 2.1.0
+  emoji_picker_flutter: 1.0.8
+  get_storage: 2.0.3
+  cloud_firestore: 3.1.5
+  avatar_glow: 2.0.2
+  intl: 0.17.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/logo/
+    - assets/lottie/
+  uses-material-design: true
+
